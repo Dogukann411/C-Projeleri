@@ -1,0 +1,17 @@
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\bin\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.exe
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\bin\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.deps.json
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\bin\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.runtimeconfig.json
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\bin\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.dll
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\bin\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.pdb
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2_Bilet_Rezervasyon.Form1.resources
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.csproj.GenerateResource.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.AssemblyInfoInputs.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.AssemblyInfo.cs
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.dll
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\refint\Proje2-Bilet Rezervasyon.dll
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.pdb
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2-Bilet Rezervasyon.genruntimeconfig.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\ref\Proje2-Bilet Rezervasyon.dll
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Proje2-Bilet Rezervasyon\Proje2-Bilet Rezervasyon\obj\Debug\net6.0-windows\Proje2_Bilet_Rezervasyon.Properties.Resources.resources
