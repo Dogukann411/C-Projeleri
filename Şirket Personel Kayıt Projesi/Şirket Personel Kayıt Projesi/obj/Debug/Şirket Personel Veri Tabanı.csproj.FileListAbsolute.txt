@@ -1,0 +1,13 @@
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket Personel Veri Tabanı.csproj.AssemblyReference.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket_Personel_Veri_Tabanı.Form1.resources
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket_Personel_Veri_Tabanı.Properties.Resources.resources
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket Personel Veri Tabanı.csproj.GenerateResource.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket Personel Veri Tabanı.csproj.CoreCompileInputs.cache
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\bin\Debug\Şirket Personel Veri Tabanı.exe.config
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\bin\Debug\Şirket Personel Veri Tabanı.exe
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\bin\Debug\Şirket Personel Veri Tabanı.pdb
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket Personel Veri Tabanı.exe
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket Personel Veri Tabanı.pdb
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket_Personel_Veri_Tabanı.FrmIstatistik.resources
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket_Personel_Veri_Tabanı.FrmGrafik.resources
+C:\Users\oltul\OneDrive\Masaüstü\C# Çalışmalar\Şirket Personel Veri Tabanı\Şirket Personel Veri Tabanı\obj\Debug\Şirket_Personel_Veri_Tabanı.FrmGirisEkrani.resources
